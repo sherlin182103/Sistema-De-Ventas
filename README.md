@@ -63,7 +63,7 @@ El sistema utiliza una base de datos relacional que incluye:
 Se implementan **procedimientos almacenados** para inserción, consulta, actualización y eliminación de registros.
 
 ---
-##🖼️✨ Evidencias del sistema
+## 🖼️✨ Evidencias del sistema
 
 <div align="center">
 

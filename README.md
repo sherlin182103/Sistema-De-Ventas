@@ -63,11 +63,92 @@ El sistema utiliza una base de datos relacional que incluye:
 Se implementan **procedimientos almacenados** para inserción, consulta, actualización y eliminación de registros.
 
 ---
+##🖼️✨ Evidencias del sistema
 
+<div align="center">
 
-## 🖼️✨ Evidencias del Sistema (Capturas)
+<table>
 
+<tr>
+<td align="center">
+<img src="j1.png" width="250"><br>
+<b>Pantalla principal</b>
+</td>
+<td align="center">
+<img src="j2.png" width="250"><br>
+<b>Registro de clientes</b>
+</td>
+<td align="center">
+<img src="j3.png" width="250"><br>
+<b>Listado de clientes</b>
+</td>
+</tr>
 
+<tr>
+<td align="center">
+<img src="j4.png" width="250"><br>
+<b>Registro de productos</b>
+</td>
+<td align="center">
+<img src="j5.png" width="250"><br>
+<b>Listado de productos</b>
+</td>
+<td align="center">
+<img src="j6.png" width="250"><br>
+<b>Edición de clientes</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="j7.png" width="250"><br>
+<b>Edición de productos</b>
+</td>
+<td align="center">
+<img src="j8.png" width="250"><br>
+<b>Creación de ventas</b>
+</td>
+<td align="center">
+<img src="j9.png" width="250"><br>
+<b>Selección de cliente</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="j10.png" width="250"><br>
+<b>Agregar productos</b>
+</td>
+<td align="center">
+<img src="j11.png" width="250"><br>
+<b>Cálculo de totales</b>
+</td>
+<td align="center">
+<img src="j12.png" width="250"><br>
+<b>Listado de ventas</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="j13.png" width="250"><br>
+<b>Detalle de venta</b>
+</td>
+<td align="center">
+<img src="j14.png" width="250"><br>
+<b>Generación de factura</b>
+</td>
+<td align="center">
+<img src="j15.png" width="250"><br>
+<b>Validaciones formularios</b>
+</td>
+</tr>
+
+</tr>
+
+</table>
+
+</div>
 
 ---
 
@@ -82,9 +163,7 @@ Se implementan **procedimientos almacenados** para inserción, consulta, actuali
 
 ## 👩‍💻🎀 Autor
 
-Estudiante: **Sherlin Raquel Jiménez Felipa**
-
-✨ Proyecto académico desarrollado con dedicación para fortalecer habilidades en desarrollo de software, manejo de bases de datos y arquitectura por capas. ✨
+Estudiante: **Sherlin Racuel Jiménez Felipa**
 
 ---
 

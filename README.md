@@ -67,23 +67,7 @@ Se implementan **procedimientos almacenados** para inserción, consulta, actuali
 
 ## 🖼️✨ Evidencias del Sistema (Capturas)
 
-j1.png
-J2.png
-J3.png
-J4.png
-J5.png
-J6.png
-J7.png
-J8.png
-J9.png
-J10.png
-J11.png
-J12.png
-J13.png
-J14.png
-J15.png
-J16.png
-J17.png
+
 
 ---
 
